@@ -1,0 +1,47 @@
+---
+title: "Our Services"
+output:
+  html_document:
+    theme: darkly
+    css: styles.css
+---
+## Experience luxury and artistry with our curated offerings
+
+Whether you want a fresh haircut, vibrant color, or rejuvenating treatment, Nightshade Salon delivers unforgettable results.
+
+---
+
+### Haircuts & Styling
+
+- **Short Haircut:** $50  
+- **Medium Haircut:** $70  
+- **Long Haircut:** $90  
+  *Prices may vary depending on hair length and complexity.*  
+- **Shampoo & Style:** $50+
+
+<a href="contact-us.html" class="btn">Book Now</a>
+
+---
+
+### Hair Coloring & Highlighting
+
+- **Root Touch-Up:** $85+  
+- **All-Over Color:** $130+  
+- **Partial Foil:** $100+ (toner included)  
+- **Full Highlight:** $180+ (toner included)  
+- **Bleach Out:** $200+  
+- **Balayage:** $250+ (toner included)
+
+<a href="contact-us.html" class="btn">Book Now</a>
+
+---
+
+### Special Treatments & Add-Ons
+
+- **Toner:** $50  
+- **Conditioning Treatment:** $40  
+- **Indian Head Massage (30 min):** $75  
+- **Indian Head Massage (60 min):** $100+  
+- **Consultation:** Personalized in-depth consultation with your stylist
+
+<a href="contact-us.html" class="btn">Book Now</a>
