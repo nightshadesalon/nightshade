@@ -1,0 +1,9 @@
+---
+title: "Gallery"
+output:
+  html_document:
+    theme: darkly
+    css: styles.css
+---
+Explore the artistry and creativity at Nightshade Salon. From edgy cuts to vivid colors, our gallery showcases the work of our talented team.
+

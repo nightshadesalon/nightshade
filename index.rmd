@@ -1,0 +1,27 @@
+---
+title: "Welcome to Nightshade Salon"
+output:
+  html_document:
+    theme: darkly
+    css: styles.css
+---
+
+Step into a world where elegance meets mystery. At Nightshade Salon, we transform everyday routines into luxurious experiences. Immerse yourself in our curated services, designed to highlight your unique style, guided by our talented team of stylists who blend artistry with precision.
+
+Discover our signature treatments, explore the portfolio of our master stylists, and let your inner confidence shine. Whether you’re here for a bold new look or a refined touch, Nightshade Salon is where style becomes an unforgettable statement.
+
+**Experience luxury. Embrace your edge. Welcome to Nightshade.**
+
+![](Interior.jpeg)
+
+<div style="margin-top: 40px;">
+
+<a href="services.html" class="btn">Explore Services</a>
+&nbsp;&nbsp;
+<a href="stylists.html" class="btn">Meet Our Stylists</a>
+&nbsp;&nbsp;
+<a href="gallery.html" class="btn">View Gallery</a>
+&nbsp;&nbsp;
+<a href="contact-us.html" class="btn">Contact Us</a>
+
+</div>
