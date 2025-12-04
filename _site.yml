@@ -1,0 +1,34 @@
+name: "Nightshade Salon"
+output_dir: "docs"
+
+navbar:
+  title: "Nightshade Salon"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Services"
+      href: services.html
+    - text: "Stylists"
+      href: stylists.html
+    - text: "Gallery"
+      href: gallery.html
+    - text: "Contact"
+      href: contact-us.html
+    - text: "Reflection"
+      href: reflection.html
+  right:
+    - text: "GitHub"
+      href: "https://github.com/nightshadesalon/nightshade-salon"
+    - text: "Live Site"
+      href: "https://nightshadesalon.github.io/nightshade-salon/"
+
+output:
+  html_document:
+    theme: darkly
+    css: styles.css
+    toc: false
+
+# Extra metadata (optional)
+live_website_url: "https://nightshadesalon.github.io/nightshade-salon"
+github_repository_url: "https://github.com/nightshadesalon/nightshade-salon/"
+project_type: "Individual Website"
